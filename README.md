@@ -9,6 +9,7 @@ variety of languages and technologies.
 
 * [Git](#git)
 * [Vim](#vim)
+* [Bash](#bash)
 
 ---
 
@@ -19,6 +20,11 @@ variety of languages and technologies.
 ### Vim
 
 - [Column Editing](vim/column-editing.md)
+
+### Bash
+
+- [log2disk](bash/log2disk.md)
+- [backup](bash/backup.md)
 
 License
 -------
